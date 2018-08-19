@@ -8,7 +8,6 @@ import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
 import android.util.Log;
-import android.widget.ImageButton;
 import android.widget.RemoteViews;
 
 import java.util.ArrayList;
